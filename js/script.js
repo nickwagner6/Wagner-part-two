@@ -5,11 +5,10 @@ var happiness = 0;
 for (var i = 0; i < 6; i++
   // i is equal to 0, as long as i is less than 6, run again
 )var answer = prompt("feed, pet, walk");
-  if (answer == "walk"); {
-    if (energy == 0) {
+  if (answer == "walk" && energy == 0); {
       alert("Not enough energy to enjoy a walk");
     }
-  }
+  
 
   break;
 
